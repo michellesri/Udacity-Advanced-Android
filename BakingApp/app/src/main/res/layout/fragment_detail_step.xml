@@ -5,9 +5,16 @@
 
     <com.google.android.exoplayer2.ui.PlayerView
         android:id="@+id/player_view"
-        android:text="Media Player"
+        android:text="@string/media_player"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/thumbnail_iv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baking"
+        android:adjustViewBounds="true"/>
     
     <TextView
         android:id="@+id/recipe_step_instruction"
@@ -18,13 +25,13 @@
         android:id="@+id/previous_step_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="previous"/>
+        android:text="@string/previous"/>
 
     <Button
         android:id="@+id/next_step_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="next"/>
+        android:text="@string/next"/>
 
 
 
