@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Erawan Thai</string>
+    <string name="title_home">Home</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_cart">Cart</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="restaurant_hours_header">
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLUNCH\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDINNER
+    </string>
+    <string name="restaurant_hours">
+        Monday\t\t\t\t\t\t\t\tclosed\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\5:00pm - 9:30pm
+        \nTues-Thurs\t\t\t\t11:00am - 2:30pm\t\t\t\t\t5:00pm - 9:30pm
+        \nFri-Sat\t\t\t\t\t\t\t\t\t11:00am - 2:30pm\t\t\t\t\t5:00pm - 10:00pm
+        \nSun\t\t\t\t\t\t\t\t\t\t\t\t11:00am - 2:30am\t\t\t\t\t5:00pm - 9:30pm
+    </string>
+</resources>
